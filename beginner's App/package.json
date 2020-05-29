@@ -1,0 +1,16 @@
+{
+  "name": "start-node.js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:JakubOlkowicz/App-NodeJs.git",
+  "author": "JakubOlkowicz <olkuba@poczta.fm>",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ./electronApp/main.js"
+  },
+  "dependencies": {
+    "electron": "5.0.6",
+    "inquirer": "6.5.0",
+    "jimp": "0.6.4"
+  }
+}
