@@ -9,7 +9,7 @@
     "start": "electron ./electronApp/main.js"
   },
   "dependencies": {
-    "electron": "5.0.6",
+    "electron": "7.2.4",
     "inquirer": "6.5.0",
     "jimp": "0.6.4"
   }
